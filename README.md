@@ -1,0 +1,2 @@
+# Santo-sGamebox
+Santo’s Gamebox is an app that stores mini games for users to be able to play to kill their boredom. The games include games such as the running dinosaur game that originally belongs to Chrome and also another game that is a clone of the original Tetris game. The main purpose of this application or program is to help people kill their boredom by having a selection of games to play with.
